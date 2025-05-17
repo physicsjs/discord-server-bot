@@ -18,8 +18,6 @@ Bu bot çok amaçlı kullanım içerir kısacası eğlence moderasyon ve sunucu 
 - npm paketi
 - Discord Developer Portaldan bir aplikasyon ve token
 - İntentleri açılmış bir bot
-- npm i discord.js 
-- npm i croxydb
 
 ## 📦 Kurulum
 
@@ -27,3 +25,5 @@ Hızlı Kurulum İçin Repoyu terminale yapıştırarak botu kurabilirsin.
 ```bash
 git clone https://github.com/physicsjs/discord-server-bot
 cd discord-server-bot
+npm i discord.js
+npm i croxydb
