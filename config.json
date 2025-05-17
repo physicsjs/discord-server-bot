@@ -1,0 +1,11 @@
+{
+  "token": "token değerinizi giriniz girmezseniz UND_ERR?_INVALID_ARG hatasını alırsınız.",
+  "clientId": "bot id",
+  "guildId": "sunucu id",
+  "banLogChannelID": "ban log kanal id",
+  "unbanLogChannelId": "unban log kanal id",
+  "whitelist": [
+    "937454716315664384"
+  ],
+  "ownerID": "sahip id"
+}
