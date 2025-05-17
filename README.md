@@ -18,6 +18,7 @@ Bu bot çok amaçlı kullanım içerir kısacası eğlence moderasyon ve sunucu 
 - npm paketi
 - Discord Developer Portaldan bir aplikasyon ve token
 - İntentleri açılmış bir bot
+- npm i discord.js 
 - npm i croxydb
 
 ## 📦 Kurulum
